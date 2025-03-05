@@ -1,0 +1,21 @@
+.title {
+    color: green;
+}
+h1 {
+    text-align-last: center;
+    font-size: 60px;
+    margin-top: 20px;
+    color: black;
+}
+
+body {
+    background-color: rgba(147, 218, 173, 0.69);
+}
+
+
+h2 {
+    text-align-last: center;
+    margin-top: 50px;
+    font-size: 30.5px;
+    font-family: 'Segoe UI';
+}
